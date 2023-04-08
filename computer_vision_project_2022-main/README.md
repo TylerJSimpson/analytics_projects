@@ -1,3 +1,3 @@
 # Computer Vision Project
-## VSCode Python3  
+## OpenCV Python3
 ### Coin Identification  
